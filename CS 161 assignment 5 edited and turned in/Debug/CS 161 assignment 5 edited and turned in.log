@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\stephanie\documents\visual studio 2015\projects\cs 161 assignment 5 edited and turned in\cs 161 assignment 5 edited and turned in\source.cpp(21): error C2660: 'RectangleValues': function does not take 1 arguments
+c:\users\stephanie\documents\visual studio 2015\projects\cs 161 assignment 5 edited and turned in\cs 161 assignment 5 edited and turned in\source.cpp(24): error C2660: 'RectangleValues': function does not take 1 arguments
+c:\users\stephanie\documents\visual studio 2015\projects\cs 161 assignment 5 edited and turned in\cs 161 assignment 5 edited and turned in\source.cpp(43): error C2082: redefinition of formal parameter 'width'
+c:\users\stephanie\documents\visual studio 2015\projects\cs 161 assignment 5 edited and turned in\cs 161 assignment 5 edited and turned in\source.cpp(44): error C2082: redefinition of formal parameter 'height'
+c:\users\stephanie\documents\visual studio 2015\projects\cs 161 assignment 5 edited and turned in\cs 161 assignment 5 edited and turned in\source.cpp(50): error C2082: redefinition of formal parameter 'Dimension'
